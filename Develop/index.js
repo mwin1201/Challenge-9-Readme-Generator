@@ -36,21 +36,25 @@ const questions = [
         type: 'input',
         name: 'installation',
         message: 'What are the installation instructions for this project?',
+        default: 'Installation instructions coming soon...'
     },
     {
         type: 'input',
         name: 'usage',
-        message: 'What is the usage information for this project?'
+        message: 'What is the usage information for this project?',
+        default: 'Usage information coming soon...'
     },
     {
         type: 'input',
         name: 'contribution',
-        message: 'What are the contribution guidelines for this project?'
+        message: 'What are the contribution guidelines for this project?',
+        default: 'Contribution guidelines coming soon...'
     },
     {
         type: 'input',
         name: 'test',
         message: 'What are the test instructions for this project?',
+        default: 'Test instructions coming soon...'
     },
     {
         type: 'list',
@@ -70,12 +74,30 @@ const questions = [
     {
         type: 'input',
         name: 'username',
-        message: 'What is your GitHub username?'
+        message: 'What is your GitHub username (required)?',
+        validate: userInput => {
+            if (userInput) {
+                return true;
+            }
+            else {
+                console.log('Please select a license of your project');
+                return false;
+            }
+        }
     },
     {
         type: 'input',
         name: 'email',
-        message: 'What is your email address?'
+        message: 'What is your email address (required)?',
+        validate: userInput => {
+            if (userInput) {
+                return true;
+            }
+            else {
+                console.log('Please select a license of your project');
+                return false;
+            }
+        }
     }
 ];
 
