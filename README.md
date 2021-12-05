@@ -1,37 +1,34 @@
 
-  # README generator
-  [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+  # The Vikings are Terrible
+  [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Table of Contents
-  1. [Description] (#description)
-  2. [Installation] (#installation)
-  3. [Usage] (#usage)
-  4. [Contributing] (#contributing)
-  5. [Tests] (#tests)
-  6. [License] (#license)
-  7. [Questions] (#questions)
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#usage)
+  4. [Contributing](#contributing)
+  5. [Tests](#tests)
+  6. [License](#license)
+  7. [Questions](#questions)
 
   ## Description
-  allows users to generate quality readme files
+  An explanation of why the vikings are so bad
 
   ## Installation
-  download files and run via CLI
+  download and run with node
 
   ## Usage
-  use when you need to generate a readme for a project
+  use this with caution if from MN
 
   ## Contributing
-  document all updates and send me an email for typo fixes
+  contribute if you have reasons why the vikings will be good
 
   ## Tests
-  none
-
- 
-  ## License
-  Copyright (c) 2021 Max Winter. Licensed under the APACHE 2.0 license.
+  watch a game next sunday
   
-
+  ## License
+  Copyright (c) 2021 Max Winter. Licensed under the GPL 3.0 license.
+  
   ## Questions
-  See GitHub profile: <https://github.com/mwin1201>
-  Email me with questions: <mwinter@wes.edu>
-
+  Go to my **[GitHub profile](https://github.com/mwin1201)**
+  **[Email me](mwin@wes.edu)** with questions

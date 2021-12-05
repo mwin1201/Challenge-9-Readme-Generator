@@ -45,7 +45,6 @@ function renderLicenseSection(license) {
   ## License
   Copyright (c) 2021 Max Winter. Licensed under the ${license} license.
   `;
-
 };
 
 // TODO: Create a function to generate markdown for README
@@ -55,13 +54,13 @@ function generateMarkdown(data) {
   [![License](${renderLicenseBadge(data.license)})](${renderLicenseLink(data.license)})
 
   ## Table of Contents
-  1. [Description] (#description)
-  2. [Installation] (#installation)
-  3. [Usage] (#usage)
-  4. [Contributing] (#contributing)
-  5. [Tests] (#tests)
-  6. [License] (#license)
-  7. [Questions] (#questions)
+  1. [Description](#description)
+  2. [Installation](#installation)
+  3. [Usage](#usage)
+  4. [Contributing](#contributing)
+  5. [Tests](#tests)
+  6. [License](#license)
+  7. [Questions](#questions)
 
   ## Description
   ${data.description}
@@ -77,13 +76,10 @@ function generateMarkdown(data) {
 
   ## Tests
   ${data.test}
-
- ${renderLicenseSection(data.license)}
-
+  ${renderLicenseSection(data.license)}
   ## Questions
-  See GitHub profile: <https://github.com/${data.username}>
-  Email me with questions: <${data.email}>
-
+  Go to my **[GitHub profile](https://github.com/${data.username})**
+  **[Email me](${data.email})** with questions
 `;
 }
 
