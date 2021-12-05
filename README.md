@@ -1,5 +1,5 @@
 # Professional README Generator Starter Code
-[![License]](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 [How to create a Professional README](./readme-guide.md)
 
