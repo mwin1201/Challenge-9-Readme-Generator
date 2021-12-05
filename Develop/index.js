@@ -53,6 +53,21 @@ const questions = [
         message: 'What are the test instructions for this project?',
     },
     {
+        type: 'list',
+        name: 'license',
+        message: 'Which license do you want to associate with this project? (required)',
+        choices: ['MIT','APACHE 2.0', 'GPL 3.0', 'BSD 3', 'None'],
+        validate: userInput => {
+            if (userInput) {
+                return true;
+            }
+            else {
+                console.log('Please select a license of your project');
+                return false;
+            }
+        }
+    },
+    {
         type: 'input',
         name: 'username',
         message: 'What is your GitHub username?'
