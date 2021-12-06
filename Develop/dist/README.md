@@ -1,9 +1,9 @@
 
-  # README Generator
-  [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
+  # Professional README Generator 3
+  [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
   ## Description
-  Allows a user to generate an already formatted README file quickly.
+  Allows a user to generate a professionally formatted README file quickly, without needing to write any markup.
 
   ## Table of Contents
   1. [Installation](#installation)
@@ -14,21 +14,21 @@
   6. [Questions](#questions)
 
   ## Installation
-  Installation instructions coming soon...
+  Download the repository files or clone the repository to your local device. Then run 'node index' in the command prompt
 
   ## Usage
-  Usage information coming soon...
+  Use this functionality when you create a GitHub project. You can write a lot at first or not and just have a template ready to go for the future. Every GitHub project needs a README.
 
   ## Contributing
-  Contribution guidelines coming soon...
+  If you have ideas to improve this application please email me.
 
   ## Tests
   Test instructions coming soon...
   
   ## License
-  Copyright (c) 2021 Max Winter. Licensed under the APACHE 2.0 license.
+  Copyright (c) 2021 Max Winter. Licensed under the GPL 3.0 license.
   
   ## Questions
   Go to my **[GitHub profile](https://github.com/mwin1201)** to view other projects 
   
-  Email me with questions @ mwinter@wes.edu
+  Email me with questions @ mwinter@wesleyan.edu

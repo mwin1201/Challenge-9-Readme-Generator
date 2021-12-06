@@ -24,6 +24,8 @@ Command Line Interface Prompts ![Command Line Interface Prompts](./assets/images
 Generated README file ![Generated README File](./assets/images/Generated-README.png)
 
 
+Watch the **[Video Tutorial](https://drive.google.com/file/d/1bheDbqmO7ZniAduWWxDeSngIbahdTv26/view?usp=sharing)**
+
 ## Credits
 This document helped to highlight the most important information README files should contain: [How to create a Professional README](./readme-guide.md)
 
