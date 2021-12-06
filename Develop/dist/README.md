@@ -1,18 +1,17 @@
 
-  # New Project
-  [![License](https://img.shields.io/badge/License-BSD_3--Clause-orange.svg)](https://opensource.org/licenses/BSD-3-Clause)
-
-  ## Table of Contents
-  1. [Description](#description)
-  2. [Installation](#installation)
-  3. [Usage](#usage)
-  4. [Contributing](#contributing)
-  5. [Tests](#tests)
-  6. [License](#license)
-  7. [Questions](#questions)
+  # README Generator
+  [![License](https://img.shields.io/badge/License-Apache_2.0-yellowgreen.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-  Allows users to write cool stuff
+  Allows a user to generate an already formatted README file quickly.
+
+  ## Table of Contents
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [Contributing](#contributing)
+  4. [Tests](#tests)
+  5. [License](#license)
+  6. [Questions](#questions)
 
   ## Installation
   Installation instructions coming soon...
@@ -27,9 +26,9 @@
   Test instructions coming soon...
   
   ## License
-  Copyright (c) 2021 Max Winter. Licensed under the BSD 3 license.
+  Copyright (c) 2021 Max Winter. Licensed under the APACHE 2.0 license.
   
   ## Questions
   Go to my **[GitHub profile](https://github.com/mwin1201)** to view other projects 
   
-  Email me with questions @ mwinter@wesleyan.edu
+  Email me with questions @ mwinter@wes.edu

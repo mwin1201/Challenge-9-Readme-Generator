@@ -1,4 +1,4 @@
-# Professional README Generator Starter Code
+# Professional README Generator
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
@@ -19,6 +19,10 @@ The installation for this project is simple. Here is all you need:
 3. Open your Command Prompt and run 'Node index'
 
 ## Usage
+Command Line Interface Prompts (./assets/images/Command-Line-Prompts.png)
+
+Generated README file (./assets/images/Generated-README.png)
+
 
 ## Credits
 This document helped to highlight the most important information README files should contain: [How to create a Professional README](./readme-guide.md)
