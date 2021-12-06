@@ -19,9 +19,9 @@ The installation for this project is simple. Here is all you need:
 3. Open your Command Prompt and run 'Node index'
 
 ## Usage
-Command Line Interface Prompts (./assets/images/Command-Line-Prompts.png)
+Command Line Interface Prompts ![Command Line Interface Prompts](./assets/images/Command-Line-Prompts.png)
 
-Generated README file (./assets/images/Generated-README.png)
+Generated README file ![Generated README File](./assets/images/Generated-README.png)
 
 
 ## Credits
